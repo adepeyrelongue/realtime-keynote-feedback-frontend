@@ -1,4 +1,4 @@
-# Partie front end de Realtime Keynote Feedback.
+# Partie frontend de Realtime Keynote Feedback.
 réalisée avec Vue.js et Materialize (vuetify).
 ## Installation
 Placez-vous avec un terminal à la racine du projet :
