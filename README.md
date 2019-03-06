@@ -3,7 +3,7 @@ Réalisée avec Vue.js et Materialize (vuetify).
 ## Prérequis
 npm et node.js : https://nodejs.org/en/
 ## Installation
-Placez-vous avec un terminal à la racine du projet :
+Ouvrez un terminal et placez-vous à la racine du projet :
 ```
 npm i
 npm run dev
