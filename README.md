@@ -1,1 +1,2 @@
-# realtime-keynote-feedback-2
+# Partie front end de Realtime Keynote Feedback.
+réalisée avec Vue.js et materialize (vuetify).
